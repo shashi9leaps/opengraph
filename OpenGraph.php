@@ -1,6 +1,6 @@
 <?php
 
-namespace vendor\scottmac\opengraph;
+namespace scottmac\opengraph;
 
 use Iterator;
 use DOMDocument;
